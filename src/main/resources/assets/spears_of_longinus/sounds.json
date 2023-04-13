@@ -1,0 +1,65 @@
+{
+  "ability": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:ability",
+        "stream": false
+      }
+    ]
+  },
+  "atfield": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:atfield",
+        "stream": false
+      }
+    ]
+  },
+  "flesh": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:flesh",
+        "stream": false
+      }
+    ]
+  },
+  "glowinghalo432": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:glowinghalo432",
+        "stream": false
+      }
+    ]
+  },
+  "gaiusformed": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:gaiusformed",
+        "stream": true
+      }
+    ]
+  },
+  "cross": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:cross",
+        "stream": false
+      }
+    ]
+  },
+  "laser": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:laser",
+        "stream": false
+      }
+    ]
+  }
+}
