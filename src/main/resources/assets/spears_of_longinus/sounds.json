@@ -44,6 +44,42 @@
       }
     ]
   },
+  "heavyspearclash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:heavyspearclash",
+        "stream": false
+      }
+    ]
+  },
+  "thrownlonginus": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:thrownlonginus",
+        "stream": false
+      }
+    ]
+  },
+  "thrownlonginusimpaled": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:thrownlonginusimpaled",
+        "stream": false
+      }
+    ]
+  },
+  "thrownlonginusobliteration": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "spears_of_longinus:thrownlonginusobliteration",
+        "stream": false
+      }
+    ]
+  },
   "cross": {
     "category": "player",
     "sounds": [
