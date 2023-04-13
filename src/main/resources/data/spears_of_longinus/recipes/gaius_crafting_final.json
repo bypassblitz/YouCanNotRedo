@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_dye"
+    },
+    "1": {
+      "item": "spears_of_longinus:helix_part"
+    },
+    "2": {
+      "item": "spears_of_longinus:helix_part"
+    },
+    "4": {
+      "item": "spears_of_longinus:helix_part"
+    },
+    "6": {
+      "item": "spears_of_longinus:helix_part"
+    },
+    "7": {
+      "item": "spears_of_longinus:helix_part"
+    },
+    "8": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "spears_of_longinus:gaius",
+    "count": 1
+  }
+}

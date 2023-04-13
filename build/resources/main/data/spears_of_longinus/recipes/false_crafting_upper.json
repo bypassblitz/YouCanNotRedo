@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "spears_of_longinus:upper_false_lance"
+  }
+}

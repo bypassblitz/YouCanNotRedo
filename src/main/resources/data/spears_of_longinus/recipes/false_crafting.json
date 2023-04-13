@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "spears_of_longinus:upper_false_lance"
+    },
+    "4": {
+      "item": "spears_of_longinus:lower_false_lance"
+    },
+    "6": {
+      "item": "spears_of_longinus:lower_false_lance"
+    }
+  },
+  "result": {
+    "item": "spears_of_longinus:trident_false",
+    "count": 1
+  }
+}

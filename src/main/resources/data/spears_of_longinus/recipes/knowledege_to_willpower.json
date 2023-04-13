@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spears_of_longinus:gaius"
+    }
+  ],
+  "result": {
+    "item": "spears_of_longinus:transformed_gaius",
+    "count": 1
+  }
+}

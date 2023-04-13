@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "iconcassius",
+    "customModelName": "cassius:default",
+    "name": "Spear of Cassius",
+    "specialInfo": [
+      "The spear of hope"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SpearsOfLonginus"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 77.0,
+    "attackSpeed": 1.7,
+    "enchantability": 77,
+    "damageVsEntity": 18.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "spears_of_longinus:custom/transformedgaius",
+  "textures": {
+    "0": "spears_of_longinus:blocks/transformedgaius",
+    "particle": "spears_of_longinus:items/icontransformedgaius"
+  }
+}

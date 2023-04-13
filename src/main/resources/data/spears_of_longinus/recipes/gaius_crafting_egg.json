@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:music_disc_blocks"
+    },
+    "1": {
+      "item": "minecraft:music_disc_cat"
+    },
+    "2": {
+      "item": "minecraft:music_disc_13"
+    },
+    "3": {
+      "item": "minecraft:music_disc_chirp"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "minecraft:music_disc_stal"
+    },
+    "6": {
+      "item": "minecraft:music_disc_far"
+    },
+    "7": {
+      "item": "minecraft:music_disc_mall"
+    },
+    "8": {
+      "item": "minecraft:music_disc_mellohi"
+    }
+  },
+  "result": {
+    "item": "spears_of_longinus:spine_part",
+    "count": 25
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "advancements.the_seeds_of_life.descr": "Equip the lance of Longinus",
+  "item.spears_of_longinus.trident_false": "False Lance",
+  "item.spears_of_longinus.heavy_spear": "Heavy Spear",
+  "item.spears_of_longinus.transformed_gaius": "Transformed Spear of Gaius",
+  "item.spears_of_longinus.lower_false_lance": "Bottom Half False Lance",
+  "item.spears_of_longinus.helix_part": "Dragon\u0027s Helix Segment",
+  "item.spears_of_longinus.trident_true_longinus": "Lance of Longinus",
+  "item.spears_of_longinus.gaius": "Spear of Gaius",
+  "item.spears_of_longinus.upper_false_lance": "Upper Half False Lance",
+  "item.spears_of_longinus.spine_part": "Dragon\u0027s Spine Segment",
+  "itemGroup.tabspears_of_longinus": "Spears of Longinus",
+  "item.spears_of_longinus.cassius": "Spear of Cassius",
+  "advancements.the_seeds_of_life.title": "The Seeds of Life"
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "iconlance",
+    "customModelName": "longinus:default",
+    "name": "Lance of Longinus",
+    "specialInfo": [
+      "An extraterrestrial artifact with the power to penetrate any barrier and immobilize beings of god-like power it is the spear of despair"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SpearsOfLonginus"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 77.0,
+    "attackSpeed": 1.7,
+    "enchantability": 77,
+    "damageVsEntity": 18.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "spears_of_longinus:custom/heavy_spear",
+  "textures": {
+    "0": "spears_of_longinus:blocks/heavy_spear",
+    "particle": "spears_of_longinus:items/iconheavyspear"
+  }
+}

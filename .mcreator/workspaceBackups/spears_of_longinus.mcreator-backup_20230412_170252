@@ -1,0 +1,392 @@
+{
+  "mod_elements": [
+    {
+      "name": "TridentTrueLonginus",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trident_true_longinus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/TridentTrueLonginusItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/trident_true_longinus.json"
+        ]
+      }
+    },
+    {
+      "name": "TridentFalse",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trident_false",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/TridentFalseItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/trident_false.json"
+        ]
+      }
+    },
+    {
+      "name": "SpearsOfLonginus",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spears_of_longinus",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "TheSeedsOfLife",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_seeds_of_life",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/advancements/the_seeds_of_life.json"
+        ]
+      }
+    },
+    {
+      "name": "LanceCrafting",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lance_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/lance_crafting.json"
+        ]
+      }
+    },
+    {
+      "name": "FalseCrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "false_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/false_crafting.json"
+        ]
+      }
+    },
+    {
+      "name": "LowerFalseLance",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lower_false_lance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/LowerFalseLanceItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/lower_false_lance.json"
+        ]
+      }
+    },
+    {
+      "name": "UpperFalseLance",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upper_false_lance",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spears_of_longinus/models/item/upper_false_lance.json",
+          "src/main/java/net/mcreator/spearsoflonginus/item/UpperFalseLanceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FalseCraftingUpper",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "false_crafting_upper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/false_crafting_upper.json"
+        ]
+      }
+    },
+    {
+      "name": "FalseCraftingLower",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "false_crafting_lower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/false_crafting_lower.json"
+        ]
+      }
+    },
+    {
+      "name": "LonginusCrafting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "longinus_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/longinus_crafting.json"
+        ]
+      }
+    },
+    {
+      "name": "HeavySpear",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_spear",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spears_of_longinus/models/item/heavy_spear.json",
+          "src/main/java/net/mcreator/spearsoflonginus/item/HeavySpearItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FalseLanceToSword",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "false_lance_to_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/false_lance_to_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "SwordToFalseLance",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_to_false_lance",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/sword_to_false_lance.json"
+        ]
+      }
+    },
+    {
+      "name": "Cassius",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cassius",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/CassiusItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/cassius.json"
+        ]
+      }
+    },
+    {
+      "name": "DispairToHope",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispair_to_hope",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/dispair_to_hope.json"
+        ]
+      }
+    },
+    {
+      "name": "HopeToDispair",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hope_to_dispair",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/hope_to_dispair.json"
+        ]
+      }
+    },
+    {
+      "name": "Gaius",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaius",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spears_of_longinus/models/item/gaius.json",
+          "src/main/java/net/mcreator/spearsoflonginus/item/GaiusItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TransformedGaius",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transformed_gaius",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/TransformedGaiusItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/transformed_gaius.json"
+        ]
+      }
+    },
+    {
+      "name": "KnowledegeToWillpower",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knowledege_to_willpower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/knowledege_to_willpower.json"
+        ]
+      }
+    },
+    {
+      "name": "WillpowerToKnowledege",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willpower_to_knowledege",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/willpower_to_knowledege.json"
+        ]
+      }
+    },
+    {
+      "name": "GaiusCraftingFinal",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaius_crafting_final",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/gaius_crafting_final.json"
+        ]
+      }
+    },
+    {
+      "name": "HelixPart",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "helix_part",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/HelixPartItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/helix_part.json"
+        ]
+      }
+    },
+    {
+      "name": "SpinePart",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spine_part",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/spearsoflonginus/item/SpinePartItem.java",
+          "src/main/resources/assets/spears_of_longinus/models/item/spine_part.json"
+        ]
+      }
+    },
+    {
+      "name": "GaiusCraftingSpines",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaius_crafting_spines",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/gaius_crafting_spines.json"
+        ]
+      }
+    },
+    {
+      "name": "GaiusCraftingEgg",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaius_crafting_egg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spears_of_longinus/recipes/gaius_crafting_egg.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.the_seeds_of_life.descr": "Equip the lance of Longinus",
+      "item.spears_of_longinus.trident_false": "False Lance",
+      "item.spears_of_longinus.heavy_spear": "Heavy Spear",
+      "item.spears_of_longinus.transformed_gaius": "Transformed Spear of Gaius",
+      "item.spears_of_longinus.lower_false_lance": "Bottom Half False Lance",
+      "item.spears_of_longinus.helix_part": "Dragon\u0027s Helix Segment",
+      "item.spears_of_longinus.trident_true_longinus": "Lance of Longinus",
+      "item.spears_of_longinus.gaius": "Spear of Gaius",
+      "item.spears_of_longinus.upper_false_lance": "Upper Half False Lance",
+      "item.spears_of_longinus.spine_part": "Dragon\u0027s Spine Segment",
+      "itemGroup.tabspears_of_longinus": "Spears of Longinus",
+      "item.spears_of_longinus.cassius": "Spear of Cassius",
+      "advancements.the_seeds_of_life.title": "The Seeds of Life"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "spears_of_longinus",
+    "modName": "Spears Of Longinus",
+    "version": "3.1.0",
+    "description": "Spears from Evangelion for minecraft 1.18",
+    "author": "Costume",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/spears-of-longinus",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "spearsoflonginuslogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.spearsoflonginus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

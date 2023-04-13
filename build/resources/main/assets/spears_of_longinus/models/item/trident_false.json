@@ -1,0 +1,7 @@
+{
+  "parent": "spears_of_longinus:custom/falselance",
+  "textures": {
+    "0": "spears_of_longinus:blocks/falselance",
+    "particle": "spears_of_longinus:items/iconfalselance"
+  }
+}

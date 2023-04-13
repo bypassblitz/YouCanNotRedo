@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+
+[[mods]]
+modId="spears_of_longinus"
+version="3.1.0"
+displayName="Spears Of Longinus"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/spears-of-longinus"
+logoFile="logo.png"
+authors="Costume"
+description='''
+Spears from Evangelion for minecraft 1.18
+'''
+
+[[dependencies.spears_of_longinus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

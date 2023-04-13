@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:music_disc_wait"
+    },
+    "1": {
+      "item": "spears_of_longinus:spine_part"
+    },
+    "2": {
+      "item": "spears_of_longinus:spine_part"
+    },
+    "3": {
+      "item": "minecraft:music_disc_ward"
+    },
+    "4": {
+      "item": "spears_of_longinus:spine_part"
+    },
+    "5": {
+      "item": "minecraft:music_disc_strad"
+    },
+    "6": {
+      "item": "spears_of_longinus:spine_part"
+    },
+    "7": {
+      "item": "spears_of_longinus:spine_part"
+    },
+    "8": {
+      "item": "minecraft:music_disc_11"
+    }
+  },
+  "result": {
+    "item": "spears_of_longinus:helix_part",
+    "count": 1
+  }
+}

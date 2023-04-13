@@ -1,0 +1,29 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "icongaius",
+    "customModelName": "gaius:default",
+    "name": "Spear of Gaius",
+    "specialInfo": [
+      "The will to return the world to how things were created the spear Gaius formed from knowledge and willpower"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SpearsOfLonginus"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 77.0,
+    "attackSpeed": 3.1,
+    "enchantability": 77,
+    "damageVsEntity": 10000.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

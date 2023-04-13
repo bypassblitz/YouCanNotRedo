@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spears_of_longinus:cassius"
+    }
+  ],
+  "result": {
+    "item": "spears_of_longinus:trident_true_longinus",
+    "count": 1
+  }
+}

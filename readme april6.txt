@@ -1,0 +1,1 @@
+the last thing I changed, but did not export in save was setting all weapon durabilities from 77 to 0
